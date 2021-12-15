@@ -3,8 +3,8 @@
 Plataforma educacional através da gamificação para engajar alunos de todo o mundo a inspirar-se!
 
 # PROJETO TCC SENAI INFORMATICA
-## Empresa Avanade 
-### Mentor: Fernando Guerra
+## Empresa: Avanade 
+* Mentor: Fernando Guerra
 
 # INTEGRANTES
 - Gustavo Tolentino
@@ -17,4 +17,7 @@ Plataforma educacional através da gamificação para engajar alunos de todo o m
 * Pedro Henrique [Linkedin](https://www.linkedin.com/in/pedro-henrique-brito-alves-6892a114a/)
 * Lucas Araujo [Linkedin](https://www.linkedin.com/in/lucasaraujo6/)
 * Joyce Santos [Linkedin](https://www.linkedin.com/in/joyce-santos-9b9a54207/)
+
+# SOBRE O PROJETO
+> O objetivo deste projeto foi fazer uma plataforma educacional para engajar alunos com cursos livres com uma plataforma gamificada.
 
