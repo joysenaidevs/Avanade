@@ -3,8 +3,8 @@
 Plataforma educacional através da gamificação para engajar alunos de todo o mundo a inspirar-se!
 
 # PROJETO TCC SENAI INFORMATICA
-Empresa Avanade 
-Mentor: Fernando Guerra
+## Empresa Avanade 
+### Mentor: Fernando Guerra
 
 # INTEGRANTES
 - Gustavo Tolentino
@@ -12,6 +12,9 @@ Mentor: Fernando Guerra
 - Lucas
 - Joyce Santos
 
-# Contato dos participantes
+# Contato
 * Gustavo Tolentino [Linkedin](https://www.linkedin.com/in/gustavo-tolentino-62529b1b6/)
+* Pedro Henrique [Linkedin](https://www.linkedin.com/in/pedro-henrique-brito-alves-6892a114a/)
+* Lucas Araujo [Linkedin](https://www.linkedin.com/in/lucasaraujo6/)
+* Joyce Santos [Linkedin](https://www.linkedin.com/in/joyce-santos-9b9a54207/)
 
