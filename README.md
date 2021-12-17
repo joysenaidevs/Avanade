@@ -5,6 +5,11 @@ Plataforma educacional através da gamificação para engajar alunos de todo o m
 # PROJETO TCC SENAI INFORMATICA
 ## Empresa: Avanade 
 * Mentor: Fernando Guerra
+# CADASTRAR CURSO
+# CADASTRAR INSTITUIÇÃO
+# CURSOS
+# AULAS
+# PERFIL
 
 # INTEGRANTES
 - Gustavo Tolentino (Desenvolvedor Front-End)
