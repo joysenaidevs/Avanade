@@ -7,10 +7,10 @@ Plataforma educacional através da gamificação para engajar alunos de todo o m
 * Mentor: Fernando Guerra
 
 # INTEGRANTES
-- Gustavo Tolentino
-- Pedro Henrique
-- Lucas
-- Joyce Santos
+- Gustavo Tolentino (Desenvolvedor Front-End)
+- Pedro Henrique  (Desenvolvedor full stack )
+- Lucas Araujo (Redes)
+- Joyce Santos (Desenvolvedora Front-End)
 
 # Contato
 * Gustavo Tolentino [Linkedin](https://www.linkedin.com/in/gustavo-tolentino-62529b1b6/)
